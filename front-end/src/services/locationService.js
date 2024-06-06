@@ -1,5 +1,5 @@
-// const BASE_URL = `${import.meta.env.VITE_BACK_END_SERVER_URL}` + '/companies'
-const BASE_URL = 'http://localhost:8000/api' + '/companies'
+// const BASE_URL = `${import.meta.env.VITE_BACK_END_SERVER_URL}` + '/locations'
+const BASE_URL = 'http://localhost:8000/api' + '/locations'
 
 // Returns all companies
 const index = async () => {
